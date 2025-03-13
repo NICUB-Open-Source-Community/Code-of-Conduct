@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment where everyone gets a chance to learn, we as  contributors and maintainers pledge to making participate in our project,  and
+In the interest of fostering an open and welcoming environment where everyone gets a chance to learn, we as  contributors and maintainers pledge to participate in our project,  and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity and expression,
 level of experience, education, socio-economic status, nationality, personal
@@ -56,8 +56,8 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [admin](nicubhub@gmail.com). All
-complaints will be reviewed and investigated, resulting in a response deemed necessary and appropriate to the circumstances. The project team is
+reported by contacting the project team at admin -> nicubhub@gmail.com. All
+complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is
 obligated to maintain confidentiality concerning the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
