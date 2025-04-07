@@ -2,11 +2,8 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment where everyone gets a chance to learn, we as  contributors and maintainers pledge to participate in our project,  and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment where everyone gets a chance to learn, we as  contributors and maintainers pledge to participate in our project,  and our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -16,7 +13,7 @@ include:
 - Being available to help other contributors.
 - Being respectful of differing viewpoints and experiences.
 - Focusing on teaching-oriented communication so that each contributor can learn and grow.
-- Focusing on what is best for the Oppia community.
+- Focusing on what is best for the NICUB community.
 - Gracefully accepting constructive criticism.
 - Showing empathy towards other community members.
 - Using welcoming and inclusive language.
@@ -40,8 +37,8 @@ response to any instances of unacceptable behavior.
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
+that are not aligned to this Code of Conduct, or to ban temporarily, or
+permanently ban any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
 ## Scope
@@ -55,15 +52,9 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at admin -> nicubhub@gmail.com. All
-complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is
-obligated to maintain confidentiality concerning the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may bereported by contacting the project team at admin -> nicubhub@gmail.com. All complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is obligated to maintain confidentiality concerning the reporting of an incident. Further details of specific enforcement policies may be posted separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Attribution
 
